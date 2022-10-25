@@ -13,6 +13,12 @@ body {
     font-family: sans-serif;
 }
 
+i {
+    cursor: pointer;
+}
+
+/* Navbar Styles are here */
+
 .navbar {
     display: flex;
     flex-direction: row;
